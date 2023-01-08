@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   clonebot:
-    image: ghcr.io/missemily2022/clonebot:new
+    image: ghcr.io/missemily22/clonebot
     container_name: clonebot
     environment:
       - telegram_token=${5541861255:AAEgxyJ2ZiBqMkDeKfR2-8-slQEapK2hlgk}
